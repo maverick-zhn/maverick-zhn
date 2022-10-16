@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maverick-zhn
 - 👀 I’m interested in distributed systems, cyber security, graph theory, graph databases
-- 🌱 I’m currently learning distributed ledgers technologies
+- 🌱 I’m currently learning to play guitar
 - 💞️ I’m looking to collaborate on unique/novel artifacts/research in the aforementioned topics
 - 📫 How to reach me email: servio <@> palacios <.> com
 
