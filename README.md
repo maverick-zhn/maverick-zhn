@@ -2,7 +2,7 @@
 - 👀 I’m interested in distributed systems, cyber security, graph theory, graph databases
 - 🌱 I’m currently learning to play guitar
 - 💞️ I’m looking to collaborate on unique/novel artifacts/research in the aforementioned topics
-- 📫 How to reach me email: servio <@> palacios <.> com
+- 📫 How to reach me email: servio <@> mayanmind <.> ai
 
 <!---
 maverick-zhn/maverick-zhn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
